@@ -10,7 +10,7 @@
 
 **A powerful cross-browser extension for comprehensive security scanning of IP addresses, domains, and file hashes**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](%EF%B8%8F-configuration)
 
 </div>
 
@@ -198,12 +198,6 @@ const CONFIG = {
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots will be added here showing the extension interface and results display.
-
----
-
 ## 🛠️ Development
 
 ### Project Structure
@@ -271,4 +265,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
