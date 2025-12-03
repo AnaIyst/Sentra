@@ -25,7 +25,6 @@
 - [Configuration](#-configuration)
 - [API Integration](#-api-integration)
 - [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
@@ -177,8 +176,6 @@ const CONFIG = {
 - **Sentra API Key**: Get your API key from [VirusTotal](https://www.virustotal.com/gui/join-us)
 - **VPN API Key**: Get your API key from [VPNAPI.io](https://vpnapi.io/)
 
-> ⚠️ **Security Note**: API keys in browser extensions are visible in the extension files. For production use, consider implementing a backend proxy service.
-
 ---
 
 ## 🔌 API Integration
@@ -267,20 +264,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-- [VirusTotal](https://www.virustotal.com/) for threat intelligence API
-- [VPNAPI.io](https://vpnapi.io/) for IP security and geolocation data
-- Firefox WebExtensions API
-
----
-
-## 📧 Support
-
-For issues, questions, or contributions, please open an issue on GitHub.
-
----
-
 <div align="center">
 
 **Made with ❤️ for the security community**
@@ -288,3 +271,4 @@ For issues, questions, or contributions, please open an issue on GitHub.
 ⭐ Star this repo if you find it useful!
 
 </div>
+
