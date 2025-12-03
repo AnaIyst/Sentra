@@ -24,7 +24,6 @@
 - [Usage](#-usage)
 - [Configuration](#-configuration)
 - [API Integration](#-api-integration)
-- [Screenshots](#-screenshots)
 - [License](#-license)
 
 ---
@@ -265,6 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
 
