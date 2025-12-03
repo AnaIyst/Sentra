@@ -202,7 +202,7 @@ const CONFIG = {
 ### Project Structure
 
 ```
-Firefox ext/
+Sentra/
 ├── manifest.json          # Firefox manifest (V2)
 ├── manifest-v3.json      # Chrome/Edge manifest (V3)
 ├── popup.html            # Main popup interface
@@ -264,6 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
 
