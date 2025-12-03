@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentra Scanner</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Sentra Scanner</h1>
+    
+    <!-- Button Row -->
+    <div class="button-row">
+      <button class="type-btn" id="ipBtn" data-type="ip">IP Address</button>
+      <button class="type-btn" id="domainBtn" data-type="domain">Domain</button>
+      <button class="type-btn" id="hashBtn" data-type="hash">Hash</button>
+    </div>
+
+    <!-- IP Address Section -->
+    <div class="search-section" id="ipSection" style="display: none;">
+      <div class="search-container">
+        <input type="text" id="ipInput" placeholder="Enter IP address (e.g., 8.8.8.8)" class="search-input">
+        <button class="submit-btn" id="ipSubmit">Search</button>
+      </div>
+      <div class="results" id="ipResults"></div>
+    </div>
+
+    <!-- Domain Section -->
+    <div class="search-section" id="domainSection" style="display: none;">
+      <div class="search-container">
+        <input type="text" id="domainInput" placeholder="Enter domain (e.g., google.com)" class="search-input">
+        <button class="submit-btn" id="domainSubmit">Search</button>
+      </div>
+      <div class="results" id="domainResults"></div>
+    </div>
+
+    <!-- Hash Section -->
+    <div class="search-section" id="hashSection" style="display: none;">
+      <div class="search-container">
+        <input type="text" id="hashInput" placeholder="Enter file hash (MD5, SHA1, SHA256)" class="search-input">
+        <button class="submit-btn" id="hashSubmit">Search</button>
+      </div>
+      <div class="results" id="hashResults"></div>
+    </div>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
+

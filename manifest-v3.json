@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Sentra Scanner",
+  "version": "1.0.0",
+  "description": "Scan IP addresses, domains, and file hashes using Sentra API",
+  "icons": {
+    "48": "icon.png",
+    "96": "icon.png"
+  },
+  "permissions": [
+    "https://www.virustotal.com/*",
+    "https://vpnapi.io/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png",
+      "96": "icon.png"
+    }
+  },
+  "host_permissions": [
+    "https://www.virustotal.com/*",
+    "https://vpnapi.io/*"
+  ]
+}
+
