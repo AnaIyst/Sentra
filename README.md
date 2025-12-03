@@ -1,5 +1,5 @@
 # 🔒 Sentra Scanner
-<img src="sentra.png">
+<img src="sentra.png" width="500" height="300">
 
 <div align="center">
 
@@ -265,6 +265,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you find it useful!
 
 </div>
+
 
 
 
